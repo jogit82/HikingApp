@@ -1,4 +1,6 @@
 # HikingApp
+C# .NET
+
 Objectives
 -
 - Users can create an account
